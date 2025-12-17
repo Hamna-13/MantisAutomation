@@ -1,0 +1,589 @@
+2025-12-17 21:30:40,853 - ====== WebDriver manager ======
+2025-12-17 21:30:42,972 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:30:43,998 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:30:44,891 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:30:47,107 - WebDriver version 139.0.7258.154 selected
+2025-12-17 21:30:47,115 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-12-17 21:30:47,115 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-12-17 21:30:48,596 - Driver downloading response is 200
+2025-12-17 21:30:52,298 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:30:53,471 - Driver has been saved in cache [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154]
+2025-12-17 21:31:17,399 - ====== WebDriver manager ======
+2025-12-17 21:31:18,895 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:31:19,646 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:31:20,517 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 21:31:23,420 - Screenshot saved for entered_username step: screenshots\login_test_entered_username.png
+2025-12-17 21:31:23,896 - Screenshot saved for clicked_login_button step: screenshots\login_test_clicked_login_button.png
+2025-12-17 21:31:24,159 - Screenshot saved for entered_password step: screenshots\login_test_entered_password.png
+2025-12-17 21:31:25,464 - Screenshot saved for submitted_form step: screenshots\login_test_submitted_form.png
+2025-12-17 21:31:25,629 - Screenshot saved for login_successful step: screenshots\login_test_login_successful.png
+2025-12-17 21:31:25,629 - Test 'login_test' PASSED
+2025-12-17 21:52:00,806 - ====== WebDriver manager ======
+2025-12-17 21:52:02,529 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:52:03,927 - Get LATEST chromedriver version for google-chrome
+2025-12-17 21:52:04,798 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 21:52:07,555 - Screenshot saved for entered_username step: screenshots\create_project_test_entered_username.png
+2025-12-17 21:52:08,027 - Screenshot saved for clicked_login_button step: screenshots\create_project_test_clicked_login_button.png
+2025-12-17 21:52:08,246 - Screenshot saved for entered_password step: screenshots\create_project_test_entered_password.png
+2025-12-17 21:52:09,526 - Screenshot saved for submitted_form step: screenshots\create_project_test_submitted_form.png
+2025-12-17 21:52:09,679 - Screenshot saved for login_successful step: screenshots\create_project_test_login_successful.png
+2025-12-17 21:52:09,679 - Test 'create_project_test' PASSED
+2025-12-17 21:52:10,233 - Screenshot saved for clicked_manage_projects step: screenshots\create_project_test_clicked_manage_projects.png
+2025-12-17 21:52:10,783 - Screenshot saved for clicked_projects_tab step: screenshots\create_project_test_clicked_projects_tab.png
+2025-12-17 21:52:41,457 - Screenshot saved for project_creation_failed step: screenshots\create_project_test_project_creation_failed.png
+2025-12-17 21:52:41,457 - Test 'create_project_test' FAILED. Screenshot: screenshots\create_project_test_project_creation_failed.png
+2025-12-17 21:52:41,458 - Error occurred during project creation: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xcfa8a3+63283]
+	GetHandleVerifier [0x0xcfa8e4+63348]
+	(No symbol) [0x0xb33e43]
+	(No symbol) [0x0xb7c8de]
+	(No symbol) [0x0xb7cc7b]
+	(No symbol) [0x0xbc4ef2]
+	(No symbol) [0x0xba1464]
+	(No symbol) [0x0xbc271a]
+	(No symbol) [0x0xba1216]
+	(No symbol) [0x0xb70855]
+	(No symbol) [0x0xb716f4]
+	GetHandleVerifier [0x0xf6bb43+2623955]
+	GetHandleVerifier [0x0xf66daa+2604090]
+	GetHandleVerifier [0x0xd2069a+218410]
+	GetHandleVerifier [0x0xd10ed8+154984]
+	GetHandleVerifier [0x0xd1742d+180925]
+	GetHandleVerifier [0x0xd022b8+94536]
+	GetHandleVerifier [0x0xd02442+94930]
+	GetHandleVerifier [0x0xced5ea+9338]
+	BaseThreadInitThunk [0x0x777bfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-12-17 22:45:19,290 - INFO - ====== WebDriver manager ======
+2025-12-17 22:45:20,831 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 22:45:21,813 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 22:45:22,622 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 22:45:26,506 - INFO - Screenshot saved for entered_username: screenshots\login_test_entered_username.png
+2025-12-17 22:45:28,589 - INFO - Screenshot saved for entered_password: screenshots\login_test_entered_password.png
+2025-12-17 22:45:30,773 - INFO - Screenshot saved for login_success: screenshots\login_test_login_success.png
+2025-12-17 22:46:15,165 - INFO - Screenshot saved for projects_page_loaded: screenshots\create_project_test_projects_page_loaded.png
+2025-12-17 22:46:18,698 - INFO - Screenshot saved for create_form_loaded: screenshots\create_project_test_create_form_loaded.png
+2025-12-17 22:46:19,164 - INFO - Screenshot saved for filled_name: screenshots\create_project_test_filled_name.png
+2025-12-17 22:46:19,480 - INFO - Screenshot saved for error: screenshots\create_project_test_error.png
+2025-12-17 22:46:19,485 - ERROR - Project creation failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="inherit_global_categories"]"}
+  (Session info: chrome=139.0.7258.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xcfa8a3+63283]
+	GetHandleVerifier [0x0xcfa8e4+63348]
+	(No symbol) [0x0xb33e43]
+	(No symbol) [0x0xb7c8de]
+	(No symbol) [0x0xb7cc7b]
+	(No symbol) [0x0xbc4ef2]
+	(No symbol) [0x0xba1464]
+	(No symbol) [0x0xbc271a]
+	(No symbol) [0x0xba1216]
+	(No symbol) [0x0xb70855]
+	(No symbol) [0x0xb716f4]
+	GetHandleVerifier [0x0xf6bb43+2623955]
+	GetHandleVerifier [0x0xf66daa+2604090]
+	GetHandleVerifier [0x0xd2069a+218410]
+	GetHandleVerifier [0x0xd10ed8+154984]
+	GetHandleVerifier [0x0xd1742d+180925]
+	GetHandleVerifier [0x0xd022b8+94536]
+	GetHandleVerifier [0x0xd02442+94930]
+	GetHandleVerifier [0x0xced5ea+9338]
+	BaseThreadInitThunk [0x0x777bfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-12-17 22:46:19,652 - INFO - Screenshot saved for test_failure: screenshots\final_test_failure.png
+2025-12-17 23:45:11,274 - INFO - ====== WebDriver manager ======
+2025-12-17 23:45:12,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:45:13,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:45:14,213 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:45:17,986 - INFO - Screenshot saved for entered_username: screenshots\login_test_entered_username.png
+2025-12-17 23:45:20,187 - INFO - Screenshot saved for entered_password: screenshots\login_test_entered_password.png
+2025-12-17 23:45:24,283 - INFO - Screenshot saved for login_success: screenshots\login_test_login_success.png
+2025-12-17 23:45:25,866 - INFO - Screenshot saved for projects_page_loaded: screenshots\create_project_test_projects_page_loaded.png
+2025-12-17 23:46:58,236 - INFO - ====== WebDriver manager ======
+2025-12-17 23:46:59,871 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:47:00,856 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:47:01,697 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:47:06,520 - INFO - Screenshot saved for entered_username: screenshots\login_test_entered_username.png
+2025-12-17 23:47:08,208 - INFO - Screenshot saved for entered_password: screenshots\login_test_entered_password.png
+2025-12-17 23:47:10,471 - INFO - Screenshot saved for login_success: screenshots\login_test_login_success.png
+2025-12-17 23:47:11,905 - INFO - Screenshot saved for projects_page_loaded: screenshots\create_project_test_projects_page_loaded.png
+2025-12-17 23:47:25,814 - INFO - Screenshot saved for create_form_page: screenshots\create_project_test_create_form_page.png
+2025-12-17 23:47:26,236 - INFO - Screenshot saved for filled_project_name: screenshots\create_project_test_filled_project_name.png
+2025-12-17 23:47:26,851 - INFO - Screenshot saved for form_filled: screenshots\create_project_test_form_filled.png
+2025-12-17 23:47:32,133 - INFO - Screenshot saved for after_submit: screenshots\create_project_test_after_submit.png
+2025-12-17 23:47:32,339 - INFO - Screenshot saved for error: screenshots\create_project_test_error.png
+2025-12-17 23:47:32,340 - ERROR - Test 'create_project_test' FAILED. Screenshot: Error: 'in <string>' requires string as left operand, not bool
+2025-12-17 23:47:32,495 - INFO - Screenshot saved for test_failure: screenshots\final_test_failure.png
+2025-12-17 23:50:50,777 - INFO - ====== WebDriver manager ======
+2025-12-17 23:50:52,049 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:50:52,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:50:53,476 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:50:56,788 - INFO - Screenshot saved for entered_username: screenshots\login_test_entered_username.png
+2025-12-17 23:50:58,917 - INFO - Screenshot saved for entered_password: screenshots\login_test_entered_password.png
+2025-12-17 23:51:01,536 - INFO - Screenshot saved for login_success: screenshots\login_test_login_success.png
+2025-12-17 23:51:01,536 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-17 23:51:02,953 - INFO - Screenshot saved for create_form_page: screenshots\create_project_test_create_form_page.png
+2025-12-17 23:51:03,332 - INFO - Screenshot saved for filled_project_name: screenshots\create_project_test_filled_project_name.png
+2025-12-17 23:51:03,878 - INFO - Screenshot saved for form_filled: screenshots\create_project_test_form_filled.png
+2025-12-17 23:51:08,497 - INFO - Screenshot saved for after_submit: screenshots\create_project_test_after_submit.png
+2025-12-17 23:51:10,009 - INFO - Screenshot saved for project_in_list: screenshots\create_project_test_project_in_list.png
+2025-12-17 23:51:10,010 - INFO - Test 'create_project_test' PASSED: Operation successful message found
+2025-12-17 23:51:35,270 - INFO - ====== WebDriver manager ======
+2025-12-17 23:51:36,547 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:51:37,257 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:51:37,963 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:51:41,300 - INFO - Screenshot saved for entered_username: screenshots\login_test_entered_username.png
+2025-12-17 23:51:42,877 - INFO - Screenshot saved for entered_password: screenshots\login_test_entered_password.png
+2025-12-17 23:51:44,966 - INFO - Screenshot saved for login_success: screenshots\login_test_login_success.png
+2025-12-17 23:51:44,966 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-17 23:51:46,358 - INFO - Screenshot saved for create_form_page: screenshots\create_project_test_create_form_page.png
+2025-12-17 23:51:46,738 - INFO - Screenshot saved for filled_project_name: screenshots\create_project_test_filled_project_name.png
+2025-12-17 23:51:47,397 - INFO - Screenshot saved for form_filled: screenshots\create_project_test_form_filled.png
+2025-12-17 23:51:51,990 - INFO - Screenshot saved for after_submit: screenshots\create_project_test_after_submit.png
+2025-12-17 23:51:53,555 - INFO - Screenshot saved for project_in_list: screenshots\create_project_test_project_in_list.png
+2025-12-17 23:51:53,556 - INFO - Test 'create_project_test' PASSED: Operation successful message found
+2025-12-17 23:52:03,117 - INFO - ====== WebDriver manager ======
+2025-12-17 23:52:04,481 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:52:05,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:52:06,081 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:52:09,446 - INFO - Screenshot saved for entered_username: screenshots\login_test_entered_username.png
+2025-12-17 23:52:11,049 - INFO - Screenshot saved for entered_password: screenshots\login_test_entered_password.png
+2025-12-17 23:52:13,700 - INFO - Screenshot saved for login_success: screenshots\login_test_login_success.png
+2025-12-17 23:52:13,702 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-17 23:52:15,126 - INFO - Screenshot saved for create_form_page: screenshots\create_project_test_create_form_page.png
+2025-12-17 23:52:15,502 - INFO - Screenshot saved for filled_project_name: screenshots\create_project_test_filled_project_name.png
+2025-12-17 23:52:16,034 - INFO - Screenshot saved for form_filled: screenshots\create_project_test_form_filled.png
+2025-12-17 23:52:20,636 - INFO - Screenshot saved for after_submit: screenshots\create_project_test_after_submit.png
+2025-12-17 23:52:22,166 - INFO - Screenshot saved for project_in_list: screenshots\create_project_test_project_in_list.png
+2025-12-17 23:52:22,166 - INFO - Test 'create_project_test' PASSED: Operation successful message found
+2025-12-17 23:55:57,113 - INFO - ====== WebDriver manager ======
+2025-12-17 23:55:58,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:55:59,304 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:56:00,053 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:56:41,332 - INFO - ====== WebDriver manager ======
+2025-12-17 23:56:42,536 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:56:43,273 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:56:43,957 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:57:43,397 - ====== WebDriver manager ======
+2025-12-17 23:57:44,850 - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:57:45,537 - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:57:46,351 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:57:48,737 - Screenshot saved for entered_username step: screenshots\login_test_entered_username.png
+2025-12-17 23:57:49,188 - Screenshot saved for clicked_login_button step: screenshots\login_test_clicked_login_button.png
+2025-12-17 23:57:49,403 - Screenshot saved for entered_password step: screenshots\login_test_entered_password.png
+2025-12-17 23:57:50,468 - Screenshot saved for submitted_form step: screenshots\login_test_submitted_form.png
+2025-12-17 23:57:50,656 - Screenshot saved for login_successful step: screenshots\login_test_login_successful.png
+2025-12-17 23:57:50,656 - Test 'login_test' PASSED
+2025-12-17 23:58:01,938 - INFO - ====== WebDriver manager ======
+2025-12-17 23:58:03,134 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:58:03,873 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:58:04,568 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:58:07,900 - INFO - Screenshot saved for entered_username: screenshots\login_test_entered_username.png
+2025-12-17 23:58:09,451 - INFO - Screenshot saved for entered_password: screenshots\login_test_entered_password.png
+2025-12-17 23:58:11,550 - INFO - Screenshot saved for login_success: screenshots\login_test_login_success.png
+2025-12-17 23:58:11,550 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-17 23:58:12,965 - INFO - Screenshot saved for create_form_page: screenshots\create_project_test_create_form_page.png
+2025-12-17 23:58:13,364 - INFO - Screenshot saved for filled_project_name: screenshots\create_project_test_filled_project_name.png
+2025-12-17 23:58:14,020 - INFO - Screenshot saved for form_filled: screenshots\create_project_test_form_filled.png
+2025-12-17 23:58:18,656 - INFO - Screenshot saved for after_submit: screenshots\create_project_test_after_submit.png
+2025-12-17 23:58:20,142 - INFO - Screenshot saved for project_in_list: screenshots\create_project_test_project_in_list.png
+2025-12-17 23:58:20,143 - INFO - Test 'create_project_test' PASSED: Operation successful message found
+2025-12-17 23:58:38,201 - INFO - ====== WebDriver manager ======
+2025-12-17 23:58:39,414 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:58:40,151 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 23:58:40,818 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 23:59:12,528 - INFO - Screenshot saved for login_failed step: screenshots\login_test_login_failed.png
+2025-12-17 23:59:12,528 - ERROR - Test 'login_test' FAILED: Login error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb5a8a3+63283]
+	GetHandleVerifier [0x0xb5a8e4+63348]
+	(No symbol) [0x0x993e43]
+	(No symbol) [0x0x9dc8de]
+	(No symbol) [0x0x9dcc7b]
+	(No symbol) [0x0xa24ef2]
+	(No symbol) [0x0xa01464]
+	(No symbol) [0x0xa2271a]
+	(No symbol) [0x0xa01216]
+	(No symbol) [0x0x9d0855]
+	(No symbol) [0x0x9d16f4]
+	GetHandleVerifier [0x0xdcbb43+2623955]
+	GetHandleVerifier [0x0xdc6daa+2604090]
+	GetHandleVerifier [0x0xb8069a+218410]
+	GetHandleVerifier [0x0xb70ed8+154984]
+	GetHandleVerifier [0x0xb7742d+180925]
+	GetHandleVerifier [0x0xb622b8+94536]
+	GetHandleVerifier [0x0xb62442+94930]
+	GetHandleVerifier [0x0xb4d5ea+9338]
+	BaseThreadInitThunk [0x0x777bfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-12-18 00:07:33,631 - INFO - ====== WebDriver manager ======
+2025-12-18 00:07:35,002 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:07:35,717 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:07:36,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:07:38,003 - INFO - WebDriver version 139.0.7258.154 selected
+2025-12-18 00:07:38,009 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-12-18 00:07:38,009 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win32/chromedriver-win32.zip
+2025-12-18 00:07:39,086 - INFO - Driver downloading response is 200
+2025-12-18 00:07:42,363 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:07:43,391 - INFO - Driver has been saved in cache [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154]
+2025-12-18 00:07:48,667 - INFO - Screenshot saved: login_test_initial_page
+2025-12-18 00:07:48,916 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 00:07:49,367 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 00:07:51,686 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 00:07:52,727 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 00:07:55,920 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 00:07:58,659 - INFO - Screenshot saved: report_issue_test_clicked_report_issue
+2025-12-18 00:08:13,327 - INFO - Screenshot saved: report_issue_test_issue_form
+2025-12-18 00:08:24,191 - INFO - Screenshot saved: report_issue_test_form_filled
+2025-12-18 00:08:27,535 - INFO - Screenshot saved: report_issue_test_submitted
+2025-12-18 00:08:27,796 - INFO - Screenshot saved: report_issue_test_uncertain
+2025-12-18 00:22:11,179 - INFO - ====== WebDriver manager ======
+2025-12-18 00:22:12,447 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:22:13,179 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:22:13,876 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 00:22:19,203 - INFO - Screenshot saved: login_test_initial_page
+2025-12-18 00:22:19,462 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 00:22:19,872 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 00:22:22,178 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 00:22:23,134 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 00:22:26,326 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 00:22:28,978 - INFO - Screenshot saved: report_issue_test_clicked_report_issue
+2025-12-18 00:22:33,299 - INFO - Screenshot saved: report_issue_test_issue_form
+2025-12-18 00:22:44,322 - INFO - Screenshot saved: report_issue_test_form_filled
+2025-12-18 00:22:48,447 - INFO - Screenshot saved: report_issue_test_after_submission
+2025-12-18 00:22:48,608 - INFO - Screenshot saved: report_issue_test_success
+2025-12-18 00:26:11,979 - INFO - ====== WebDriver manager ======
+2025-12-18 00:26:13,230 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:26:13,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:26:14,656 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 00:26:19,831 - INFO - Screenshot saved: login_test_initial_page
+2025-12-18 00:26:20,078 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 00:26:20,507 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 00:26:22,821 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 00:26:23,872 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 00:26:27,064 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 00:26:29,772 - INFO - Screenshot saved: report_issue_test_clicked_report_issue
+2025-12-18 00:26:34,339 - INFO - Screenshot saved: report_issue_test_issue_form
+2025-12-18 00:26:45,388 - INFO - Screenshot saved: report_issue_test_form_filled
+2025-12-18 00:26:49,618 - INFO - Screenshot saved: report_issue_test_after_submission
+2025-12-18 00:26:49,778 - INFO - Screenshot saved: report_issue_test_success
+2025-12-18 00:27:28,160 - ====== WebDriver manager ======
+2025-12-18 00:27:29,349 - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:27:30,172 - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:27:30,836 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 00:27:33,113 - Screenshot saved for entered_username step: screenshots\assign_issue_test_entered_username.png
+2025-12-18 00:27:33,545 - Screenshot saved for clicked_login_button step: screenshots\assign_issue_test_clicked_login_button.png
+2025-12-18 00:27:33,780 - Screenshot saved for entered_password step: screenshots\assign_issue_test_entered_password.png
+2025-12-18 00:27:34,848 - Screenshot saved for submitted_form step: screenshots\assign_issue_test_submitted_form.png
+2025-12-18 00:27:35,006 - Screenshot saved for login_successful step: screenshots\assign_issue_test_login_successful.png
+2025-12-18 00:27:35,007 - Test 'assign_issue_test' PASSED
+2025-12-18 00:27:35,616 - Screenshot saved for clicked_view_issues step: screenshots\assign_issue_test_clicked_view_issues.png
+2025-12-18 00:37:50,367 - INFO - ====== WebDriver manager ======
+2025-12-18 00:37:51,941 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:37:52,629 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:37:53,334 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 00:38:30,521 - INFO - ====== WebDriver manager ======
+2025-12-18 00:38:31,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:38:32,721 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:38:33,437 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 00:39:05,147 - INFO - Screenshot saved: login_test_login_failed
+2025-12-18 00:39:05,148 - ERROR - Test 'login_test' FAILED: Login error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x44a8a3+63283]
+	GetHandleVerifier [0x0x44a8e4+63348]
+	(No symbol) [0x0x283e43]
+	(No symbol) [0x0x2cc8de]
+	(No symbol) [0x0x2ccc7b]
+	(No symbol) [0x0x314ef2]
+	(No symbol) [0x0x2f1464]
+	(No symbol) [0x0x31271a]
+	(No symbol) [0x0x2f1216]
+	(No symbol) [0x0x2c0855]
+	(No symbol) [0x0x2c16f4]
+	GetHandleVerifier [0x0x6bbb43+2623955]
+	GetHandleVerifier [0x0x6b6daa+2604090]
+	GetHandleVerifier [0x0x47069a+218410]
+	GetHandleVerifier [0x0x460ed8+154984]
+	GetHandleVerifier [0x0x46742d+180925]
+	GetHandleVerifier [0x0x4522b8+94536]
+	GetHandleVerifier [0x0x452442+94930]
+	GetHandleVerifier [0x0x43d5ea+9338]
+	BaseThreadInitThunk [0x0x777bfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-12-18 00:48:19,098 - INFO - ====== WebDriver manager ======
+2025-12-18 00:48:20,531 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:48:21,308 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:48:22,145 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 00:48:27,700 - INFO - Screenshot saved: login_test_initial_page
+2025-12-18 00:48:27,969 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 00:48:28,875 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 00:48:31,227 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 00:48:32,403 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 00:48:35,597 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 00:48:35,597 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 00:48:39,449 - INFO - Screenshot saved: assign_issue_test_clicked_view_issues
+2025-12-18 00:48:41,646 - INFO - Screenshot saved: assign_issue_test_issues_page_loaded
+2025-12-18 00:48:45,334 - INFO - Screenshot saved: assign_issue_test_clicked_issue_link
+2025-12-18 00:48:45,484 - INFO - Screenshot saved: assign_issue_test_issue_details_page
+2025-12-18 00:48:45,936 - INFO - Screenshot saved: assign_issue_test_selected_assignee
+2025-12-18 00:49:12,250 - INFO - Screenshot saved: assign_issue_test_clicked_update_button
+2025-12-18 00:49:12,478 - INFO - Screenshot saved: assign_issue_test_issue_assigned_successfully
+2025-12-18 00:49:12,479 - INFO - Test 'assign_issue_test' PASSED: Issue 0000012 assigned successfully
+2025-12-18 00:51:29,438 - INFO - ====== WebDriver manager ======
+2025-12-18 00:51:30,916 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:51:31,691 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 00:51:32,391 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 00:51:37,854 - INFO - Screenshot saved: login_test_initial_page
+2025-12-18 00:51:38,157 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 00:51:38,758 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 00:51:41,125 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 00:51:42,382 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 00:51:45,595 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 00:51:48,462 - INFO - Screenshot saved: report_issue_test_clicked_report_issue
+2025-12-18 00:51:53,085 - INFO - Screenshot saved: report_issue_test_issue_form
+2025-12-18 00:52:04,299 - INFO - Screenshot saved: report_issue_test_form_filled
+2025-12-18 00:52:08,513 - INFO - Screenshot saved: report_issue_test_after_submission
+2025-12-18 00:52:08,686 - INFO - Screenshot saved: report_issue_test_success
+2025-12-18 00:59:58,986 - INFO - ====== WebDriver manager ======
+2025-12-18 01:00:00,407 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:00:01,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:00:01,894 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:00:07,408 - INFO - Screenshot saved: login_test_initial_page
+2025-12-18 01:00:07,691 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:00:08,223 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:00:10,559 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:00:11,757 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:00:14,969 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:00:14,971 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:00:18,777 - INFO - Screenshot saved: assign_issue_test_clicked_view_issues
+2025-12-18 01:00:20,940 - INFO - Screenshot saved: assign_issue_test_issues_page_loaded
+2025-12-18 01:00:24,532 - INFO - Screenshot saved: assign_issue_test_clicked_issue_link
+2025-12-18 01:00:24,690 - INFO - Screenshot saved: assign_issue_test_issue_details_page
+2025-12-18 01:00:25,173 - INFO - Screenshot saved: assign_issue_test_selected_assignee
+2025-12-18 01:00:28,848 - INFO - Screenshot saved: assign_issue_test_clicked_update_button
+2025-12-18 01:00:29,016 - INFO - Screenshot saved: assign_issue_test_issue_assigned_successfully
+2025-12-18 01:00:29,016 - INFO - Test 'assign_issue_test' PASSED: Issue 0000012 assigned successfully
+2025-12-18 01:01:01,545 - ====== WebDriver manager ======
+2025-12-18 01:01:02,880 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:01:03,614 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:01:04,336 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:01:06,927 - Screenshot saved for entered_username step: screenshots\change_status_test_entered_username.png
+2025-12-18 01:01:07,396 - Screenshot saved for clicked_login_button step: screenshots\change_status_test_clicked_login_button.png
+2025-12-18 01:01:07,627 - Screenshot saved for entered_password step: screenshots\change_status_test_entered_password.png
+2025-12-18 01:01:08,856 - Screenshot saved for submitted_form step: screenshots\change_status_test_submitted_form.png
+2025-12-18 01:01:09,020 - Screenshot saved for login_successful step: screenshots\change_status_test_login_successful.png
+2025-12-18 01:01:09,020 - Test 'change_status_test' PASSED
+2025-12-18 01:01:09,665 - Screenshot saved for clicked_view_issues step: screenshots\change_status_test_clicked_view_issues.png
+2025-12-18 01:01:39,811 - Screenshot saved for status_change_failed step: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:01:39,811 - Test 'change_status_test' FAILED. Screenshot: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:01:39,811 - Error occurred during status change: Message: 
+
+2025-12-18 01:03:23,842 - ====== WebDriver manager ======
+2025-12-18 01:03:25,284 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:03:27,021 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:03:27,773 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:03:30,330 - Screenshot saved for entered_username step: screenshots\change_status_test_entered_username.png
+2025-12-18 01:03:30,806 - Screenshot saved for clicked_login_button step: screenshots\change_status_test_clicked_login_button.png
+2025-12-18 01:03:31,025 - Screenshot saved for entered_password step: screenshots\change_status_test_entered_password.png
+2025-12-18 01:03:32,243 - Screenshot saved for submitted_form step: screenshots\change_status_test_submitted_form.png
+2025-12-18 01:03:32,400 - Screenshot saved for login_successful step: screenshots\change_status_test_login_successful.png
+2025-12-18 01:03:32,400 - Test 'change_status_test' PASSED
+2025-12-18 01:03:33,102 - Screenshot saved for clicked_view_issues step: screenshots\change_status_test_clicked_view_issues.png
+2025-12-18 01:04:03,647 - Screenshot saved for status_change_failed step: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:04:03,647 - Test 'change_status_test' FAILED. Screenshot: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:04:03,647 - Error occurred during status change: Message: 
+
+2025-12-18 01:04:34,245 - ====== WebDriver manager ======
+2025-12-18 01:04:35,597 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:04:36,286 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:04:36,954 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:04:39,544 - Screenshot saved for entered_username step: screenshots\change_status_test_entered_username.png
+2025-12-18 01:04:40,021 - Screenshot saved for clicked_login_button step: screenshots\change_status_test_clicked_login_button.png
+2025-12-18 01:04:40,279 - Screenshot saved for entered_password step: screenshots\change_status_test_entered_password.png
+2025-12-18 01:04:41,480 - Screenshot saved for submitted_form step: screenshots\change_status_test_submitted_form.png
+2025-12-18 01:04:41,643 - Screenshot saved for login_successful step: screenshots\change_status_test_login_successful.png
+2025-12-18 01:04:41,643 - Test 'change_status_test' PASSED
+2025-12-18 01:04:42,322 - Screenshot saved for clicked_view_issues step: screenshots\change_status_test_clicked_view_issues.png
+2025-12-18 01:05:12,019 - ====== WebDriver manager ======
+2025-12-18 01:05:13,327 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:05:14,034 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:05:14,787 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:05:17,343 - Screenshot saved for entered_username step: screenshots\change_status_test_entered_username.png
+2025-12-18 01:05:17,807 - Screenshot saved for clicked_login_button step: screenshots\change_status_test_clicked_login_button.png
+2025-12-18 01:05:18,017 - Screenshot saved for entered_password step: screenshots\change_status_test_entered_password.png
+2025-12-18 01:05:19,190 - Screenshot saved for submitted_form step: screenshots\change_status_test_submitted_form.png
+2025-12-18 01:05:19,384 - Screenshot saved for login_successful step: screenshots\change_status_test_login_successful.png
+2025-12-18 01:05:19,385 - Test 'change_status_test' PASSED
+2025-12-18 01:05:20,023 - Screenshot saved for clicked_view_issues step: screenshots\change_status_test_clicked_view_issues.png
+2025-12-18 01:05:51,176 - Screenshot saved for status_change_failed step: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:05:51,176 - Test 'change_status_test' FAILED. Screenshot: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:05:51,177 - Error occurred during status change: Message: 
+
+2025-12-18 01:06:19,213 - ====== WebDriver manager ======
+2025-12-18 01:06:20,618 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:06:21,382 - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:06:22,094 - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:06:24,581 - Screenshot saved for entered_username step: screenshots\change_status_test_entered_username.png
+2025-12-18 01:06:25,089 - Screenshot saved for clicked_login_button step: screenshots\change_status_test_clicked_login_button.png
+2025-12-18 01:06:25,361 - Screenshot saved for entered_password step: screenshots\change_status_test_entered_password.png
+2025-12-18 01:06:26,610 - Screenshot saved for submitted_form step: screenshots\change_status_test_submitted_form.png
+2025-12-18 01:06:26,761 - Screenshot saved for login_successful step: screenshots\change_status_test_login_successful.png
+2025-12-18 01:06:26,761 - Test 'change_status_test' PASSED
+2025-12-18 01:06:27,427 - Screenshot saved for clicked_view_issues step: screenshots\change_status_test_clicked_view_issues.png
+2025-12-18 01:06:57,782 - Screenshot saved for status_change_failed step: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:06:57,783 - Test 'change_status_test' FAILED. Screenshot: screenshots\change_status_test_status_change_failed.png
+2025-12-18 01:06:57,783 - Error occurred during status change: Message: 
+
+2025-12-18 01:09:30,736 - INFO - ====== WebDriver manager ======
+2025-12-18 01:09:32,335 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:09:33,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:09:33,720 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:09:38,264 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:09:40,710 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:09:40,993 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:09:45,181 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:09:45,398 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:09:45,399 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:09:49,134 - INFO - Screenshot saved: change_status_test_clicked_view_issues
+2025-12-18 01:09:51,355 - INFO - Screenshot saved: change_status_test_view_issues_page
+2025-12-18 01:09:55,012 - INFO - Screenshot saved: change_status_test_clicked_issue_link
+2025-12-18 01:09:55,528 - INFO - Screenshot saved: change_status_test_selected_status
+2025-12-18 01:09:59,061 - INFO - Screenshot saved: change_status_test_clicked_update_button
+2025-12-18 01:09:59,225 - INFO - Screenshot saved: change_status_test_status_changed_success
+2025-12-18 01:09:59,225 - INFO - Test 'change_status_test' PASSED: Status changed to Resolved for issue 0000013
+2025-12-18 01:10:58,674 - INFO - ====== WebDriver manager ======
+2025-12-18 01:11:00,056 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:11:01,203 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:11:01,897 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:11:06,477 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:11:08,942 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:11:09,215 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:11:13,408 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:11:13,708 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:11:13,708 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:11:17,428 - INFO - Screenshot saved: change_status_test_clicked_view_issues
+2025-12-18 01:11:19,628 - INFO - Screenshot saved: change_status_test_view_issues_page
+2025-12-18 01:11:23,226 - INFO - Screenshot saved: change_status_test_clicked_issue_link
+2025-12-18 01:11:23,976 - INFO - Screenshot saved: change_status_test_selected_status
+2025-12-18 01:11:27,539 - INFO - Screenshot saved: change_status_test_clicked_update_button
+2025-12-18 01:11:27,764 - INFO - Screenshot saved: change_status_test_status_changed_success
+2025-12-18 01:11:27,765 - INFO - Test 'change_status_test' PASSED: Status changed to Resolved for issue 0000013
+2025-12-18 01:12:25,645 - INFO - ====== WebDriver manager ======
+2025-12-18 01:12:26,912 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:12:27,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:12:28,242 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:12:32,751 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:12:35,177 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:12:35,416 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:12:39,597 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:12:39,801 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:12:39,801 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:12:43,514 - INFO - Screenshot saved: change_status_test_clicked_view_issues
+2025-12-18 01:12:45,726 - INFO - Screenshot saved: change_status_test_view_issues_page
+2025-12-18 01:12:49,423 - INFO - Screenshot saved: change_status_test_clicked_issue_link
+2025-12-18 01:12:50,096 - INFO - Screenshot saved: change_status_test_selected_status
+2025-12-18 01:12:53,658 - INFO - Screenshot saved: change_status_test_clicked_update_button
+2025-12-18 01:12:53,827 - INFO - Screenshot saved: change_status_test_status_changed_success
+2025-12-18 01:12:53,828 - INFO - Test 'change_status_test' PASSED: Status changed to Resolved for issue 0000013
+2025-12-18 01:13:25,969 - INFO - ====== WebDriver manager ======
+2025-12-18 01:13:27,385 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:13:28,092 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:13:28,778 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:13:32,817 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:13:35,245 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:13:35,492 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:13:39,671 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:13:39,879 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:13:39,879 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:13:43,520 - INFO - Screenshot saved: change_status_test_clicked_view_issues
+2025-12-18 01:13:45,744 - INFO - Screenshot saved: change_status_test_view_issues_page
+2025-12-18 01:13:49,337 - INFO - Screenshot saved: change_status_test_clicked_issue_link
+2025-12-18 01:13:49,872 - INFO - Screenshot saved: change_status_test_selected_status
+2025-12-18 01:13:53,424 - INFO - Screenshot saved: change_status_test_clicked_update_button
+2025-12-18 01:13:53,575 - INFO - Screenshot saved: change_status_test_status_changed_success
+2025-12-18 01:13:53,576 - INFO - Test 'change_status_test' PASSED: Status changed to Resolved for issue 0000013
+2025-12-18 01:20:51,159 - INFO - ====== WebDriver manager ======
+2025-12-18 01:20:52,458 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:20:54,162 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:20:54,892 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:20:59,440 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:21:01,899 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:21:02,173 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:21:06,340 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:21:06,542 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:21:06,543 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:21:10,298 - INFO - Screenshot saved: change_status_test_clicked_view_issues
+2025-12-18 01:21:13,973 - INFO - Screenshot saved: change_status_test_clicked_issue_link
+2025-12-18 01:21:14,176 - INFO - Screenshot saved: change_status_test_status_change_failed
+2025-12-18 01:21:14,180 - ERROR - Test 'change_status_test' FAILED: Status change failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="status"]"}
+  (Session info: chrome=139.0.7258.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x44a8a3+63283]
+	GetHandleVerifier [0x0x44a8e4+63348]
+	(No symbol) [0x0x283e43]
+	(No symbol) [0x0x2cc8de]
+	(No symbol) [0x0x2ccc7b]
+	(No symbol) [0x0x2c2121]
+	(No symbol) [0x0x2f1464]
+	(No symbol) [0x0x2c2044]
+	(No symbol) [0x0x2f1694]
+	(No symbol) [0x0x31271a]
+	(No symbol) [0x0x2f1216]
+	(No symbol) [0x0x2c0855]
+	(No symbol) [0x0x2c16f4]
+	GetHandleVerifier [0x0x6bbb43+2623955]
+	GetHandleVerifier [0x0x6b6daa+2604090]
+	GetHandleVerifier [0x0x47069a+218410]
+	GetHandleVerifier [0x0x460ed8+154984]
+	GetHandleVerifier [0x0x46742d+180925]
+	GetHandleVerifier [0x0x4522b8+94536]
+	GetHandleVerifier [0x0x452442+94930]
+	GetHandleVerifier [0x0x43d5ea+9338]
+	BaseThreadInitThunk [0x0x777bfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d282ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d2827e+238]
+
+2025-12-18 01:26:26,599 - INFO - ====== WebDriver manager ======
+2025-12-18 01:26:27,911 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:26:28,648 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:26:29,464 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:26:34,047 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:26:36,493 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:26:36,743 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:26:40,935 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:26:41,160 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:26:41,161 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:26:44,820 - INFO - Screenshot saved: change_status_test_clicked_view_issues
+2025-12-18 01:26:48,605 - INFO - Screenshot saved: change_status_test_clicked_issue_link
+2025-12-18 01:26:52,181 - INFO - Screenshot saved: change_status_test_clicked_edit
+2025-12-18 01:26:54,698 - INFO - Screenshot saved: change_status_test_selected_resolved
+2025-12-18 01:26:55,908 - INFO - Screenshot saved: change_status_test_before_update_click
+2025-12-18 01:26:59,547 - INFO - Screenshot saved: change_status_test_clicked_update_button
+2025-12-18 01:26:59,721 - INFO - Screenshot saved: change_status_test_status_changed_success
+2025-12-18 01:26:59,722 - INFO - Test 'change_status_test' PASSED: Status changed to Resolved for issue 0000013
+2025-12-18 01:27:45,508 - INFO - ====== WebDriver manager ======
+2025-12-18 01:27:46,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:27:47,723 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-18 01:27:48,403 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 01:27:52,962 - INFO - Screenshot saved: login_test_entered_username
+2025-12-18 01:27:55,521 - INFO - Screenshot saved: login_test_clicked_login_button
+2025-12-18 01:27:55,764 - INFO - Screenshot saved: login_test_entered_password
+2025-12-18 01:27:59,946 - INFO - Screenshot saved: login_test_submitted_form
+2025-12-18 01:28:00,169 - INFO - Screenshot saved: login_test_login_successful
+2025-12-18 01:28:00,170 - INFO - Test 'login_test' PASSED: Login successful
+2025-12-18 01:28:03,885 - INFO - Screenshot saved: change_status_test_clicked_view_issues
+2025-12-18 01:28:07,490 - INFO - Screenshot saved: change_status_test_clicked_issue_link
+2025-12-18 01:28:11,081 - INFO - Screenshot saved: change_status_test_clicked_edit
+2025-12-18 01:28:13,551 - INFO - Screenshot saved: change_status_test_selected_resolved
+2025-12-18 01:28:14,742 - INFO - Screenshot saved: change_status_test_before_update_click
+2025-12-18 01:28:18,328 - INFO - Screenshot saved: change_status_test_clicked_update_button
+2025-12-18 01:28:18,507 - INFO - Screenshot saved: change_status_test_status_changed_success
+2025-12-18 01:28:18,507 - INFO - Test 'change_status_test' PASSED: Status changed to Resolved for issue 0000013
